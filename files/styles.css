@@ -3,6 +3,10 @@ body{
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
+.assignment{
+    display: flex;
+}
+
 h1{
     color: darkgoldenrod;
     text-align: left;
