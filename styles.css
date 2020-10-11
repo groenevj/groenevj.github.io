@@ -1,3 +1,8 @@
+head{
+    text-align: center;
+}
+
+
 body{
     background:rgb(172, 219, 172);
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
@@ -18,6 +23,7 @@ body{
 h1{
     color: darkgoldenrod;
     text-align: center;
+    font-size: large;
 }
 
 a{
