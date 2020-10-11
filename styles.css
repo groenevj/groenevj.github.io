@@ -1,0 +1,31 @@
+head{
+    display: inline;
+}
+
+
+
+body{
+    background:rgb(172, 219, 172);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.assignment{
+    display: inline;
+    padding: 10px;
+    margin: 10px;
+    background-color: darkseagreen;
+}
+
+.assignment img{
+    width: 200px;
+    padding: 10px;
+}
+
+h1{
+    color: darkgoldenrod;
+    text-align: center;
+}
+
+a{
+    text-decoration: none;
+}
