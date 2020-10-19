@@ -8,11 +8,15 @@ body{
     padding: 10px;
     margin: 10px;
     background-color: darkseagreen;
+    border-radius: 6px;
+    box-shadow: 5px 10px darkslategray;
 }
 
 .assignment img{
     width: 200px;
     padding: 10px;
+    margin-right: 20px;
+    border-radius: 5px;
 }
 
 h1{
