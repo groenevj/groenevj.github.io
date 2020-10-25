@@ -3,6 +3,10 @@ body{
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
+.assignments{
+    display: flex;
+}
+
 .assignment{
     display: inline;
     padding: 10px;
